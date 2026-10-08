@@ -14,7 +14,24 @@
 ## Ссылка на Wiki
 https://github.com/kumirusi/project/wiki
 
-## Структура репозитория
+## Структура репозитория 
 - `data/` - датасеты
 - `docs/` — документация по данным
 - `src/` - код
+
+## Навигация по Wiki
+
+Home - корневая страница вики с кратким описанием лабораторной работы, навигацией по остальным страницам и списком участников:
+- https://docs.github.com/en/communities/documentingyour-project-with-wikis/about-wikis
+
+Concept - концепция победившей идеи: ценность, аудитория, результат, цель по SMART, устав, классификация, ограничения и экономика (точка безубыточности, NPV):
+- https://github.com/kumirusi/project/wiki/Concept
+
+Evaluation — таблица оценок трёх идей от трёх экспертов со средними баллами и обоснованием выбранной идеи-победителя:
+- https://github.com/kumirusi/project/wiki/Evaluation
+
+Ideas - три независимые идеи проекта с описанием потребности, ключевого функционала, аудитории, сроков, технологий и рисков:
+- https://github.com/kumirusi/project/wiki/Ideas
+
+Stakeholders — реестр заинтересованных сторон (5–7 участников) с ролями, влиянием, стратегией работы и матрицей интерес/влияние:
+-  https://github.com/kumirusi/project/wiki/Stakeholders
