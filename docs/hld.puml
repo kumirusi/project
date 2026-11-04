@@ -1,0 +1,15 @@
+@startuml
+actor "ML-инженер" as Dev
+actor "Преподаватель" as Teacher
+actor "Потребитель" as User
+rectangle "Среда разработки" {
+ component "Код" as Code
+ component "Результат метрик" as result
+}
+cloud "Внешние библиотеки и ссылки на датасет" as Ext
+Dev --> Code
+Teacher --> Code
+User --> result
+Ext --> Code
+Code --> result
+@enduml
