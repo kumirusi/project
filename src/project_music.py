@@ -85,7 +85,7 @@ dataSt = dataSet[cols]
 
 print(dataSt.columns)
 
-#Добавлена обработка пропусков и дубликатов
+#Добавлена обработка пропусков/дубликатов
 #Дубликаты
 for col in dataSt.columns:
     if dataSt[col].dtype == 'object':
